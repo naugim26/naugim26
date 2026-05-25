@@ -13,5 +13,7 @@
 
 ### 🎧 on repeat
 
-[![NCT 127 - Vitamin](https://img.shields.io/badge/Now%20Playing%20:%20NCT%20127%20--%20Vitamin-FF96D0?style=for-the-badge&logo=youtubemusic&logoColor=white)](https://youtu.be/N9LE6rCPtSs?si=KEHbRb6dGxQI9vZr) 
-[![NCT 127 - 0 Mile](https://img.shields.io/badge/Now%20Playing%20:%20NCT%20127%20--%200%20Mile-FECAE0?style=for-the-badge&logo=youtubemusic&logoColor=white)](https://youtu.be/KYnd_xqP6vk?si=OL-ezmjIk5JlpWnP)
+[![Vitamin](https://img.shields.io/badge/Now%20Playing%20:%20NCT%20127%20--%20Vitamin-FF96D0?style=for-the-badge&logo=youtubemusic&logoColor=white)](https://youtu.be/N9LE6rCPtSs?si=KEHbRb6dGxQI9vZr) 
+[![KRUSHDAFIGHT](https://img.shields.io/badge/Now%20Playing%20:%20NCT%20127%20--%200%20Mile-FECAE0?style=for-the-badge&logo=youtubemusic&logoColor=white)](https://youtu.be/4vZIO8Ig9NQ?si=kKW4WGtvcFLOl4YZ)
+
+
